@@ -2,6 +2,8 @@
 This plugin allows you to connect to pont.tech cloud services directly from blender. It integrates seamlessly, and does not require any actions from the user after setup.
 It uses our universal [server](https://github.com/pont-tech/pont-server) on backend.
 
+Tested on Blender 3.0, 3.1, 3.2, 3.3
+
 ## Installation
 Download the latest zip from the [release page](https://github.com/pont-tech/pont-blender-plugin/releases). Inside Blender go to Edit -> Preferences, then  hit Install Add-On and choose the downloaded archive.
 
